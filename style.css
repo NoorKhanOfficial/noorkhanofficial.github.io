@@ -1,0 +1,29 @@
+body {
+  background: #f4f4f4;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+  background: white;
+  margin-top: 60px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #1a73e8;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
